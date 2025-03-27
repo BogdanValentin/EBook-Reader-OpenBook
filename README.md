@@ -2,7 +2,7 @@
 
 ## Diagrama Bloc
 
-![Diagrama Bloc](https://raw.githubusercontent.com/BogdanValentin/EBook-Reader-OpenBook/refs/heads/main/Images/TSC.png)  
+![Diagrama Bloc](https://docs.google.com/drawings/d/1pw292QC-nhEQWND5BkVXxcTUj3gtrsxW_k2_knx0LvE/edit?usp=sharing)  
 
 ## Pasii de implementare
 Am realizat in primul rand schema electrica propusa pe OCW. Apoi am realizat board-ul avand grija prima data sa tai placa dupa dimensiunile precizate. Am pus componentele pe placa incercand sa urmez designul propus. Am pus cele 2 planuri de masa si am rutat firele. Am creat modelele 3D pt placa, baterie si ecran si le-am asamblat in produsul finit.
